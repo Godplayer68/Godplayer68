@@ -44,7 +44,7 @@
 </div>
 <br>
 <div align="center">
-                                  <img src="https://im6.ezgif.com/tmp/ezgif-6-34947136a9.jpg">
+                                 
 
 </div>
 <hr>
